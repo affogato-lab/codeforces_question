@@ -1,0 +1,1 @@
+[🏡 Go back to home](README.md#codeforces-烹饪日记)

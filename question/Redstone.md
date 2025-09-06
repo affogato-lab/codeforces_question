@@ -18,7 +18,7 @@
    因此，如果$z_n = 1$，则$x_0 = x_n$。也就是说，只要满足a中有至少两个相同的数，则满足题中条件。
 
 ## 代码
-```Python 
+```python 
 import sys
 lines = sys.stdin.readlines()
 n_cases = int(lines[0].strip())

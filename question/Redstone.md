@@ -1,7 +1,7 @@
 # Redstone?
 
-# 结果：
-- Python 3: 运行时间109ms，存储3300KB
+## 结果：
+Python 3: 运行时间109ms，存储3300KB
 
 ## 问题描述
 > Steve stumbled upon a collection of $n$ gears, where gear $i$ has $a_{i}$ teeth, and he wants to arrange them into a row. After he arranges them, Steve will spin the leftmost gear at a speed of 1 revolution per second. For each of the other gears, let $x$ be the number of teeth it has, $y$ be the number of teeth of the gear to its left, and $z$ be the speed the gear to its left spins at. Then, its speed will be $\frac{y}{x}z$ revolutions per second. Steve considers the contraption satisfactory if the rightmost gear spins at a speed of 1 revolution per second. Determine whether Steve can rearrange the gears into a satisfactory contraption.
